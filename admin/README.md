@@ -8,8 +8,11 @@ php artisan ide:models
 
 ## run consule command
 --make the console class
+
 php artisan make:command FireEvent
+
 -class class from cmd terminal
+
 php artisan fire
 
 ## JOBS AND EVENTS
